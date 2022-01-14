@@ -1,0 +1,25 @@
+From e49fd3ebd2c5675726979f0318fbc9082318cf70 Mon Sep 17 00:00:00 2001
+From: Rishi <vrushabh95pawar@gmail.com>
+Date: Fri, 14 Jan 2022 14:19:31 +0530
+Subject: [PATCH 2/2] new added lines repeat
+
+---
+ abc.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/abc.txt b/abc.txt
+index 3c77f8a..6c4b864 100644
+--- a/abc.txt
++++ b/abc.txt
+@@ -1,3 +1,7 @@
+ vrushabh pawar
+ 
++hiii hello new line here
++
++hiii hello new line here
++hiii hello new line here
+ hiii hello new line here
+\ No newline at end of file
+-- 
+2.33.0.windows.2
+
